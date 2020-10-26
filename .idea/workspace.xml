@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="236044d9-b8b7-40e3-9c25-4f9cb30b9c7d" name="Default Changelist" comment="">
+    <list default="true" id="236044d9-b8b7-40e3-9c25-4f9cb30b9c7d" name="Default Changelist" comment="Selection sort added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +47,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="28" />
-    <option name="y" value="1" />
-    <option name="width" value="1346" />
-    <option name="height" value="697" />
-  </component>
   <component name="ProjectId" id="1jNCVrqF4RjDWFlRiOY4rX3wi7C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,7 +60,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SelectionSort">
+  <component name="RunManager" selected="Python.CreateAndDelete">
     <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +95,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlogrithm/BubbleSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateAndDelete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHackerRankPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySql/CreateAndDelete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CreateAndDelete" />
         <item itemvalue="Python.SelectionSort" />
         <item itemvalue="Python.BubbleSort" />
         <item itemvalue="Python.BinarySearch" />
@@ -154,29 +188,52 @@
       <option name="presentableId" value="Default" />
       <updated>1603022701097</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selection sort added">
+      <created>1603731024908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603731024908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selection sort added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection sort added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="223" width="562" height="289" key="#Updates" timestamp="1603724513152">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="391" y="223" width="562" height="289" key="#Updates/0.0.1366.740@0.0.1366.740" timestamp="1603724513152" />
-    <state width="1341" height="216" key="GridCell.Tab.0.bottom" timestamp="1603651146197">
+    <state width="658" height="173" key="GridCell.Tab.0.bottom" timestamp="1603737419810">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1341" height="216" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1603651146197" />
-    <state width="1341" height="216" key="GridCell.Tab.0.center" timestamp="1603651146196">
+    <state width="658" height="173" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1603737419810" />
+    <state width="658" height="173" key="GridCell.Tab.0.center" timestamp="1603737419809">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1341" height="216" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1603651146196" />
-    <state width="1341" height="216" key="GridCell.Tab.0.left" timestamp="1603651146195">
+    <state width="658" height="173" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1603737419809" />
+    <state width="658" height="173" key="GridCell.Tab.0.left" timestamp="1603737419808">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1341" height="216" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1603651146195" />
-    <state width="1341" height="216" key="GridCell.Tab.0.right" timestamp="1603651146196">
+    <state width="658" height="173" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1603737419808" />
+    <state width="658" height="173" key="GridCell.Tab.0.right" timestamp="1603737419810">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1341" height="216" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1603651146196" />
+    <state width="658" height="173" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1603737419810" />
     <state width="1341" height="216" key="GridCell.Tab.1.bottom" timestamp="1603651146203">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
@@ -193,6 +250,10 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state width="1341" height="216" key="GridCell.Tab.1.right/0.0.1366.740@0.0.1366.740" timestamp="1603651146202" />
+    <state x="89" y="21" width="800" height="527" key="Vcs.Push.Dialog.v2" timestamp="1603731048701">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="89" y="21" width="800" height="527" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1603731048701" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
